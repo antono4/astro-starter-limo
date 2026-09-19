@@ -11,7 +11,7 @@
   <a href="https://github.com/antono4/astro-starter-limo"><img alt="GitHub repo" src="https://img.shields.io/badge/GitHub-antono4/astro-starter-limo-blue?logo=github"></a>
   <a href="https://antono4.github.io/astro-starter-limo/"><img alt="Live Demo" src="https://img.shields.io/badge/Live%20Demo-Online-success?logo=githubpages"></a>
   <img alt="Files" src="https://img.shields.io/badge/Files-35-informational">
-  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-19 11:57:14 WIB-lightgrey">
+  <img alt="Updated" src="https://img.shields.io/badge/Updated-2026-09-19 16:23:32 WIB-lightgrey">
 </p>
 
 ---
@@ -61,5 +61,4 @@ Lihat berkas [`LICENSE`](./LICENSE) untuk informasi lisensi.
 
 ---
 
-<sub>README ini di-generate otomatis pada **2026-09-19 11:57:14 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
-Last updated: 2026-09-19 16:23:15 WIB
+<sub>README ini di-generate otomatis pada **2026-09-19 16:23:32 WIB** oleh GitHub Actions `.github/workflows/generate-readme.yml`.</sub>
